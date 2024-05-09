@@ -10,5 +10,5 @@ spec:
   project: default
   source:
     path: 2-argocd-application
-    repoURL: https://github.com/SebastianJ91/argocd-server-side-apply.git
+    repoURL: https://github.com/Nikunj0601/argocd-server-side-apply.git
     targetRevision: HEAD
